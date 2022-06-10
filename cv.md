@@ -20,8 +20,8 @@ I have over 10 years of experience in both B2B and B2C trading. 6 years of exper
 
 ### Hard skills
 * Git/GitHub
-* HTML, CSS (Learning)
-* JavaScript (Learning) 
+* HTML, CSS (in learning)
+* JavaScript (in learning) 
 * Photoshop/Figma
 * Visual Studio Code
 * Excel, Word, Outlook
