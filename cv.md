@@ -12,7 +12,10 @@ I have over 10 years of experience in both B2B and B2C trading. 6 years of exper
 ## My skills
 
 ### Soft skills
-* Ability to communicate
+* Communication skills
+* Organization
+* Ability to work in a team
+* Punctuality
 * Commercial experience
 * Entrepreneurial experience
 * Attention to details
