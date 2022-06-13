@@ -42,3 +42,7 @@ isReady
 ### Courses
 * [RS School](https://rs.school/) course:
     * Java Script/Front-end. Stage 0 (in progress)
+
+### Languages
+* English - A2
+* Russian - native speaker
