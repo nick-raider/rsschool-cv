@@ -38,3 +38,7 @@ isReady
 ### Education
 * GBPOU Lermontov Regional Multidisciplinary College
     * Economics, accounting and control
+
+### Courses
+* [RS School](https://rs.school/) course:
+    * Java Script/Front-end. Stage 0 (in progress)
