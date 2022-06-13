@@ -35,3 +35,6 @@ isReady
   ? console.log("Everything is ready!")
   : console.log("Everything is not ready");
 ```
+### Education
+* GBPOU Lermontov Regional Multidisciplinary College
+    * Economics, accounting and control
