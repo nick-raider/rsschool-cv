@@ -30,8 +30,8 @@ I have over 10 years of experience in both B2B and B2C trading. 6 years of exper
 * Excel, Word, Outlook
 
 ### Code Examples
-`
+```
 isReady
   ? console.log("Everything is ready!")
   : console.log("Everything is not ready");
-`
+```
